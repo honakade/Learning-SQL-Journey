@@ -4,7 +4,7 @@ Welcome to my **SQL Learning Journey**! This repository documents my progress, p
 
 ---
 ## 📌 **About Me**
-I’m an aspiring data analyst passionate about extracting insights from data. SQL is one of the core skills I’m developing to achieve this goal
+I’m an aspiring data analyst passionate about extracting insights from data. SQL is one of the core skills I’m developing to achieve this goal. Check out my journey, and feel free to connect!
 
 ---
 ## 🚀 **Learning Goals**
