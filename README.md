@@ -3,7 +3,10 @@
 Welcome to my **SQL Learning Journey**! This repository documents my progress, projects, and exercises as I learn and practice SQL. My goal is to build a solid foundation in SQL and develop skills to analyze data effectively, design databases, and create meaningful insights.
 
 ---
+## 📌 **About Me**
+I’m an aspiring data analyst passionate about extracting insights from data. SQL is one of the core skills I’m developing to achieve this goal
 
+---
 ## 🚀 **Learning Goals**
 Here are the main objectives I aim to achieve through this journey:
 - Understand SQL fundamentals (SELECT, WHERE, GROUP BY, etc.).
@@ -87,6 +90,4 @@ I’m open to feedback and suggestions! If you spot an error, have a better way 
 
 ---
 
-## 📌 **About Me**
-I’m an aspiring data analyst passionate about extracting insights from data. SQL is one of the core skills I’m developing to achieve this goal
 
